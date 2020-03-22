@@ -1,0 +1,1 @@
+Angular demo in 293 bytes (gzip)
